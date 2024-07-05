@@ -1,0 +1,8 @@
+kornia
+tensorboard
+torch
+torchvision
+tqdm
+opencv-python
+onnxruntime
+pillow==9.5.0
